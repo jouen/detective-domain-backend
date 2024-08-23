@@ -7,7 +7,7 @@ Laravel 11.x requires a minimum PHP version of 8.2.
 ## Project Setup
 
 ```sh
-composer installl
+composer install
 ```
 
 ### Generate Application Key
